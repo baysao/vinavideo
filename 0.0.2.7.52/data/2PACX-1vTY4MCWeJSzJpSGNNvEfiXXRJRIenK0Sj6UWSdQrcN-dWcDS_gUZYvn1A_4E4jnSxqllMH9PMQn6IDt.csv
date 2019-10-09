@@ -1,0 +1,27 @@
+status,name,value
+1,i,2PACX-1vRaricznSmI7vlvBm1uyyaGUHId8zbTH8d14UCx6amteStG84GShytjL8CFfriZzCDcstYp5wsysK7y
+1,menu,"{""logo"":{""img"":""./img/vinavideo_38.png"",""name"":""VinaVideo"",""link"":""#""},""menus"":[{""name"":""Thời Sự"",""link"":""#c/news-top-stories""},{""name"":""Phóng Sự"",""link"":""#c/news-phongsu""},{""name"":""Thế Giới"",""link"":""#c/news-world""},{""name"":""Kinh Doanh"",""link"":""#c/news-business""},{""name"":""Công Nghệ"",""link"":""#c/news-technology""},{""name"":""Khoa Học"",""link"":""#c/news-science""},{""name"":""Sức Khỏe"",""link"":""#c/news-health""},{""name"":""Pháp Luật"",""link"":""#c/news-phapluat""},{""name"":""Thể Thao"",""link"":""#c/news-sports""},{""name"":""Giải Trí"",""link"":""#c/news-entertainment"",""childs"":[{""name"":""Xe"",""link"":""#c/news-xe""},{""name"":""Giải Trí"",""link"":""#c/news-entertainment""},{""name"":""Âm Nhạc"",""link"":""#c/news-amnhac""},{""name"":""Phim Ảnh"",""link"":""#c/news-phimanh""},{""name"":""Thời Trang"",""link"":""#c/news-thoitrang""}]},{""name"":""Mẹ Và Bé"",""link"":""http://eva.vina.video""},{""name"":""Xem Phim"",""link"":""http://movies.vina.video""},{""name"":""Chuyên Mục Khác"",""link"":""#"",""childs"":[{""name"":""Mẹo Vặt"",""link"":""#c/news-meovat""},{""name"":""Ẩm Thực"",""link"":""#c/news-amthuc""},{""name"":""Xuất Bản"",""link"":""#c/news-xuatban""},{""name"":""Sống Trẻ"",""link"":""#c/news-songtre""},{""name"":""Giáo Dục"",""link"":""#c/news-giaoduc""},{""name"":""Du Lịch"",""link"":""#c/news-dulich""},{""name"":""Nhịp Sống"",""link"":""#c/news-nhipsong""}]}]}"
+1,player,2PACX-1vRVzDghMrAMEqAlBsATTPz0HudfkFaILjS803usGRhKKlARTQnWW5mLAdzDxQ8vWNXKE9CEXXt2rDwu.1
+1,config,2PACX-1vRg344E7nGZyJclNIsXB0brfiUJgnzdBnyts8Gb5t_y1MDBLrQhcSs6lDqgzEZQVQyyqAP4s3_Il8ZP
+1,i|news,2PACX-1vT0MOFLX0qOQATdb9J1apPN3-BIVSmtZ4HTZccoEi0OXepx6ymplb3PEwKPMWAyANH6nMn36dXwjbl5
+1,c|news-sports,2PACX-1vQCj1aVsRz6JM7QfSFQa4r23jtolVrV9m9pI6hRm_o_cIOYN_BlB1j_sz9YBERdIUX2qBjTbDd0pgMZ
+1,c|news-top-stories,2PACX-1vRNMbyovg0ba633bya5G-iMDsCOfKsntNmNoVl83YmUXRX2p8gFKl-UXcrjsnhZ4wnPbN9fc9lKQHTN
+1,c|news-entertainment,2PACX-1vQ0zCv4zK6DesZDbdBpAXujqDCCI2IxKsxcdmO3S_J9ukYS87whj0_cq2PMmWyQZsTibbZp9Ky3efFy
+1,c|news-business,2PACX-1vTH_6Ekd9D_7pAftHkD7xMc5m-ZXSqDkW23AuD-BWwXB3yOqE2BC0MELayixVc5bCD9IiAdTwDdywBo
+1,c|news-world,2PACX-1vTk-4pVdSIaxOA8gbGT9pf23Lolhs6F9bS4dni-4jjDZsoIcG01Hhj7o4MNWYUJoKq3bozLL79cTuD9
+1,c|news-technology,2PACX-1vQ-zOegJBouE1B60eHS1Ty48DeqFVaTwrl3lioViYIZ7XuGit03l8pRqlCI0T3QugHK2XdW4uQl1FUV
+1,c|news-science,2PACX-1vSqu3XZJpk9BD2AE1HufDXOKhSa3p5PEYbkfVXop--cxNefO_Wb8Tu2d20SJxWtEovYx6H9LHG-YbE7
+1,c|news-health,2PACX-1vTm2DxG3JexDgF4ql6sgvnLwtTEizU0eUvZ9NPub9SxBoDM3fhQ1Q_3d9SsI3qYA7Y3jJOoXhGEJUqM
+1,c|news-phongsu,2PACX-1vQf-HjP_bWsERKZlV-v8i2TVM1ZXS_TDvA-kUH5dF9Hj9x_tGwnV9X83Zhtw0xdhk98inANLXaChckd
+1,c|news-meovat,2PACX-1vRLW0nlHOYKyYi__58ubJdROLKuefVimFzjGMo0mLjBNMz1aRSCk0BzySLU9M5H1G8NlN7dKxywamem
+1,c|news-amthuc,2PACX-1vSMXjO5_cFIVSV0xtFf2Rcp9-a-f1RaJOriqXGZcIFV1FBFa_vIU-m_ZgZbSjWCioKaXWjL3VTyUo3G
+1,c|news-phapluat,2PACX-1vSsxNUPOwnrn-leQyZwlHF3QOjlECF7gSSX_AjMOyrrJRhnhvTMO7K4Cm5yx9hJrLKn4b_jth9xo1Xd
+1,c|news-xuatban,2PACX-1vTvKOIYjfvMsbSJwJohgTyFBO5t1vradWLG8NWq-NBNSLatWfB-bXV6rvehXKCXnvKkdPRi8iMLdA_M
+1,c|news-amnhac,2PACX-1vTUluEhM2e8CyhzsJSMJoAyWc6NQuikL3CABSN1RedpBZsNjJk5QXuFewLIUQw5-g7rn4LBTAi_Es_c
+1,c|news-phimanh,2PACX-1vSzffYqmEEEZKlLbhlhXWpnWc3GEhuZhk6jWxmv46j47Odj6hkYU8leeXGqJUDi9dcwAuiHwDYlK6Zv
+1,c|news-thoitrang,2PACX-1vR6-L209hD1qXZVrbrAHUUh1hIfe9uuT0ml7GX8r9MSm6S6fn4IuVhaWLoAd48gGcLY_gi0k0z1XuGN
+1,c|news-songtre,2PACX-1vTPv--XhseMcK09jfpNqN4Vcmb-JJPyckL_x2GGHe-Ol4RE25b-68R_wykQEz_tkS5GmpsBYGLmMvgr
+1,c|news-giaoduc,2PACX-1vRdn9Ty13Io7XHp4OOad8pFPXQiiZSlb2CNviciIFN5GC6LIA7OEdRH8SgPPnUnUNtjW0zOol8269EI
+1,c|news-dulich,2PACX-1vR3tFBeB8t3KT06LJEY6t4EWih6dYJAc-Puz8JzPS2xmZqPo4eMI9G1hcV7DMqFEfNW88VxQz0sRmfx
+1,c|news-nhipsong,2PACX-1vTx5KFQVY6KlAMNXYWzAZLX5BmHfrWq0duswhIyXLz4efeRH5ASYyihVLjnsdfeQMV7LgOO2zRKrVXv
+1,c|news-xe,2PACX-1vTCdNeUlCn7y6gifKqO3oL7lJBegBskh-LTPrRxDs1Znh2vexXz6Pvzo4V-S478a2ETcPZrM1TZ9hWR
