@@ -534,8 +534,9 @@ function s3bubble(div) {
                                         url: "https://news.zing.vn/a-post" + settings.options.code + ".html",
                                         data: ""
                                     }, function printResult(results) {
+					console.log(results);
                                         var m = results.match(/src=\'(https\:\/\/.*\.m3u8[^']+)\'/);
-                                        console.log(m[1]);
+                                        console.log(m);
                                         document.querySelectorAll('video').forEach(function (e) {
                                             var _pl = videojs(e);
                                             _pl.src({type: 'application/x-mpegURL', src: m[1]});
