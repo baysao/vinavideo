@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+    <head>
+
+	<!-- Meta Data -->
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- <base href='https://rawgit.com/vidtop/vina.video/master/6/'/> -->
+	<base href='./0.0.2.7.52/'/>
+	<!-- Wordpress Scripts -->
+	<title></title>
+	<noscript id='deferred-styles'>
+	    <link rel='stylesheet' id='streamium-production-css' href='./css/streamium.css?ver=18' type='text/css' media='all' />
+	    <link rel='stylesheet' id='streamium-s3bubble-cdn-css' href='./css/s3bubble.min.css?ver=18' type='text/css' media='all' />
+	    <link rel="stylesheet" href="https://use.fontawesome.com/90156040ed.css">
+	</noscript>
+
+	<!--Customizer CSS-->
+	<style type="text/css">
+         html,
+         body {
+			 margin:0;
+			 padding: 0;
+             /* font-family: 'Open Sans', sans-serif!important */
+         }
+
+         .video-header h3,
+         .see-all,
+         .slick-arrow,
+         h4.series-watched-episode-title {
+             color: #f2f2f2!important
+         }
+
+         .tile_inner {
+             padding-bottom: 56.25!important
+         }
+
+         .woocommerce-page .cd-main-content a,
+         .page .cd-main-content a,
+         .bbpress .cd-main-content a,
+         .brand-color {
+             color: #9b5c8f
+         }
+
+         #place_order,
+         .pagination a:hover,
+         .pagination .current,
+         .slick-dots li.slick-active button,
+         .progress-bar,
+         .button,
+         .cd-overlay,
+         .has-children>a:hover::before,
+         .has-children>a:hover::after,
+         .go-back a:hover::before,
+         .go-back a:hover::after,
+         #submit,
+         #place_order,
+         .checkout-button,
+         .woocommerce-thankyou-order-received,
+         .add_to_cart_button,
+         .confirm,
+         .streamium-btns,
+         .streamium-extra-meta,
+         .streamium-auth {
+             background-color: #9b5c8f!important
+         }
+
+         .synopis-inner .content {
+             font-size: 1.6vw!important
+         }
+
+         .woocommerce-message,
+         .woocommerce-info {
+             border-top-color: #9b5c8f!important
+         }
+
+         .streamium-list-reviews {
+             background: #000!important
+         }
+
+         .streamium-list-reviews:hover {
+             background: #fff!important;
+             color: #000
+         }
+	</style>
+	<!--/Customizer CSS-->
+
+    </head>
+
+    <body>
+
+	<div id="page_container" class="home blog">
+
+	</div>
+
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js'></script>
+	
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/nanoajax/0.4.3/nanoajax.min.js'></script>
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/fastdom/1.0.6/fastdom.min.js'></script>
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/blazy/1.8.2/blazy.min.js'></script>
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/dot/1.1.2/doT.min.js'></script>
+	<script type='text/javascript' async="async" src='https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.3.6/papaparse.min.js'></script>
+
+	<script type='text/javascript' async="async" src='./js/morphdom.min.js'></script>
+	<script type='text/javascript' async="async" src='./js/objectpath.min.js'></script>
+	
+	<script type='text/javascript' src='./js/nimble.min.js'></script>
+	<script type='text/javascript' src='./js/unlimit.min.js'></script>
+	<script type='text/javascript' src='./js/tiny-lru.min.js'></script>
+	<script type='text/javascript' src='./js/TinyCore.min.js'></script>
+	<script type='text/javascript' src='./js/models.js'></script>
+	
+	<script type='text/javascript' async="async" src='./js/streamium.js'></script>
+	<script type='text/javascript' async="async" src='./js/s3bubble.core.js'></script>
+	<script type='text/javascript' async="async" src='./js/s3bubble.videojs.js'></script>
+	<!-- <script type='text/javascript' async="async" src='./tmpl.js'></script>	 -->
+	<script type='text/javascript' src='./js/app.js'></script>	
+	<script type='text/javascript'>
+	
+	 var loadDeferredStyles = function() {
+             var addStylesNode = document.getElementById("deferred-styles");
+             var replacement = document.createElement("div");
+             replacement.innerHTML = addStylesNode.textContent;
+             document.body.appendChild(replacement)
+             addStylesNode.parentElement.removeChild(addStylesNode);
+	 };
+	 var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+		   webkitRequestAnimationFrame || msRequestAnimationFrame;
+	 if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+	 else window.addEventListener("load", loadDeferredStyles);
+	</script>
+</body>
+
+</html>

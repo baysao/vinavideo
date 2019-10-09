@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00377b88-17e3-4037-8e9c-677b86515d67" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_f.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_g.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_h.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_hf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/90156040ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_300italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_600italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_700italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_800italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/Open_Sans_regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/font-awesome-css.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fonts/streamium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fonts/streamium.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fonts/streamium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/fonts/streamium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/s3bubble.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/s3bubble_v20.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/streamium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/css/streamium.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/img/streamium-video-blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/TinyCore.Toolbox.Mediator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/TinyCore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/app.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/blazy.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/cache.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/doT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/fastdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/models.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/morphdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/nanoajax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/nimble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/objectpath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/objectpath.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/papaparse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.videojs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.videojs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/streamium.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/streamium.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/tiny-lru.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/unlimit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.3/js/unlimit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_f.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_g.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_h.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_hf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/90156040ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_300italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_600italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_700italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_800italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/Open_Sans_regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/font-awesome-css.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fonts/streamium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fonts/streamium.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fonts/streamium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/fonts/streamium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/s3bubble.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/s3bubble_v20.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/streamium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/css/streamium.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/img/streamium-video-blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/TinyCore.Toolbox.Mediator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/TinyCore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/app.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/blazy.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/cache.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/doT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/fastdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/models.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/morphdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/nanoajax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/nimble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/objectpath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/objectpath.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/papaparse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.videojs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/s3bubble.videojs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/streamium.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/streamium.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/tiny-lru.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/unlimit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0.0.2.7.4/js/unlimit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/90156040ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_300italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_600italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_700italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_800italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_italic.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Open_Sans_regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-css.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts/streamium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts/streamium.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts/streamium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts/streamium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/s3bubble.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/s3bubble_v20.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/streamium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/streamium.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/TinyCore.Toolbox.Mediator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/TinyCore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/app.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/blazy.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cache.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/doT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/fastdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/models.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/morphdom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/nanoajax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/nimble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/objectpath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/papaparse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/s3bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/s3bubble.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/streamium.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/streamium.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/tiny-lru.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/unlimit.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0.0.2.7.5/_p.html" afterPath="$PROJECT_DIR$/0.0.2.7.5/_p.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js" afterPath="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js" afterPath="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vinavideo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_p.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.0.2.7.5/_p.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s3bubble.core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="494" column="51" lean-forward="false" selection-start-line="494" selection-start-column="51" selection-end-line="494" selection-end-column="51" />
+              <folding>
+                <marker date="1511476184441" expanded="true" signature="14716:14732" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s3bubble.videojs.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="19144" column="0" lean-forward="false" selection-start-line="19144" selection-start-column="0" selection-end-line="19144" selection-end-column="0" />
+              <folding>
+                <marker date="1511476480574" expanded="true" signature="1292239:1292294" ph="..." />
+                <marker date="1511476480574" expanded="true" signature="1373756:1373763" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="120" column="64" lean-forward="false" selection-start-line="120" selection-start-column="64" selection-end-line="120" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console</find>
+      <find>getData</find>
+      <find>.youtube</find>
+      <find>_api_player_handle</find>
+      <find>.video</find>
+      <find>codes</find>
+      <find>video-player-streaming</find>
+      <find>vjs-s3bubble-fullscreen</find>
+      <find>_updatePostMedia</find>
+      <find>embed</find>
+      <find>youtube</find>
+      <find>iframe</find>
+      <find>Youtube_api</find>
+      <find>drive</find>
+      <find>preview</find>
+      <find>file\</find>
+      <find>file</find>
+      <find>createEl</find>
+      <find>createEl(</find>
+      <find>this\.iframe \= document\.createElement\(\&quot;iframe\&quot;\)\;\n                            this\.iframe\.setAttribute\(\&quot;id\&quot;\, this\.options_\.techId\)\;\n                            this\.iframe\.setAttribute\(\&quot;title\&quot;\, \&quot;Vimeo Video Player\&quot;\)\;\n                            this\.iframe\.setAttribute\(\&quot;class\&quot;\, \&quot;vimeoplayer\&quot;\)\;\n                            this\.iframe\.setAttribute\(\&quot;frameborder\&quot;\, \&quot;0\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;scrolling\&quot;\, \&quot;no\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;marginWidth\&quot;\, \&quot;0\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;marginHeight\&quot;\, \&quot;0\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;webkitAllowFullScreen\&quot;\, \&quot;0\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;mozallowfullscreen\&quot;\, \&quot;0\&quot;\)\,\n                                this\.iframe\.setAttribute\(\&quot;allowFullScreen\&quot;\, \&quot;0\&quot;\)\;\n                            if\(\/\^_gd_\/\.test\(this\.videoId\)\) \{\n                                this\.videoId \= this\.videoId\.split\(\'_gd_\'\)\[1\]\;\n                                this\.iframe\.setAttribute\(\&quot;src\&quot;\, this\.baseUrlGd \+ this\.videoId \+ \&quot;\/preview\&quot;\)\;\n                                this\.iframe\.setAttribute\(\&quot;width\&quot;\, \&quot;100\%\&quot;\)\;\n                                this\.iframe\.setAttribute\(\&quot;height\&quot;\, \&quot;100\%\&quot;\)\;</find>
+      <find>this.iframe</find>
+      <find>vimeo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/0.0.2.7.3/js/app.js" />
+        <option value="$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.core.js" />
+        <option value="$PROJECT_DIR$/0.0.2.7.3/js/streamium.js" />
+        <option value="$PROJECT_DIR$/0.0.2.7.3/js/models.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/0.0.2.7.5/_p.html" />
+        <option value="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js" />
+        <option value="$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="763" />
+    <option name="y" value="462" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code style issuesGo</id>
+          </State>
+          <State>
+            <id>Go</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>GoReceiverNames</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vinavideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vinavideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vinavideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vinavideo" type="462c0819:PsiDirectoryNode" />
+              <item name="0.0.2.7.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vinavideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vinavideo" type="462c0819:PsiDirectoryNode" />
+              <item name="0.0.2.7.5" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.asdf/shims/node" />
+    <property name="android.sdk.path" value="$USER_HOME$/android" />
+    <property name="configurable.Global.libraries.is.expanded" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="763" y="462" width="1922" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24907847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.49571735" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.50428265" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/_p.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420948">
+          <caret line="19134" column="66" lean-forward="false" selection-start-line="19134" selection-start-column="66" selection-end-line="19134" selection-end-column="66" />
+          <folding>
+            <marker date="1511476480574" expanded="true" signature="1292239:1292294" ph="..." />
+            <marker date="1511476480574" expanded="true" signature="1373756:1373763" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="64" lean-forward="true" selection-start-line="118" selection-start-column="64" selection-end-line="118" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10450">
+          <caret line="475" column="70" lean-forward="true" selection-start-line="475" selection-start-column="70" selection-end-line="475" selection-end-column="70" />
+          <folding>
+            <marker date="1511476184441" expanded="true" signature="14716:14732" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.core.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/_hf.html" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/streamium.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/models.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.3/js/s3bubble.core.js" />
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="120" column="64" lean-forward="false" selection-start-line="120" selection-start-column="64" selection-end-line="120" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/_p.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="494" column="51" lean-forward="false" selection-start-line="494" selection-start-column="51" selection-end-line="494" selection-end-column="51" />
+          <folding>
+            <marker date="1511476184441" expanded="true" signature="14716:14732" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.0.2.7.5/js/s3bubble.videojs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="19144" column="0" lean-forward="false" selection-start-line="19144" selection-start-column="0" selection-end-line="19144" selection-end-column="0" />
+          <folding>
+            <marker date="1511476480574" expanded="true" signature="1292239:1292294" ph="..." />
+            <marker date="1511476480574" expanded="true" signature="1373756:1373763" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>LuaJ</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

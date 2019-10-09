@@ -1,0 +1,43 @@
+<section class="streamium-slider">
+    {{~ it.data :item}}
+    {{? item.is_background}}
+    <div>
+	<div id="streamium-featured-background-{{= item.post_id }}" class="s3bubble streamium-featured-background" data-setup='{"codes": "{{= item.post_id }}","source":{"poster":"./img/streamium-video-blank.png"},"options":{"background":true,"muted":true,"loop":true,"autoplay":true,"controls":false,"vpaid":""},"meta":{"skipButtons":false,"showSocial":false,"backButton":false,"subTitle": "","title": "","para": ""}}'></div>
+	{{??}}
+	<div class="lazy" data-src="{{= item.tileUrlExpanded || item.tileUrl || item.bgimage }}">
+	    {{?}}
+	    <article class="content-overlay">
+	    <div class="content-overlay-grad"></div>
+	    <div class="container-fluid rel">
+		<div class="row rel">
+		    <div class="col-sm-5 col-xs-6 rel">
+			<div class="synopis-outer">
+			    <div class="synopis-middle">
+				<div class="synopis-inner">
+				    <h2>{{= item.title}}</h2>
+				    <div class="synopis content">
+					{{= item.desc}}<a class="show-more-content" data-id="{{= item.post_id }}" data-type="featured">read more</a>
+					{{= item.meta}}
+				    </div>
+				    {{= item.extraReviews}}
+				</div>
+			    </div>
+			</div>
+		    </div>
+		    <div class="col-sm-7 col-xs-6 rel">
+			<a class="play-icon-wrap" href="{{= item.href }}">
+			    <div class="play-icon-wrap-rel">
+				<div class="play-icon-wrap-rel-ring"></div>
+				<span class="play-icon-wrap-rel-play">
+				    <i class="fa fa-play fa-3x brand-color" aria-hidden="true"></i>
+				</span>
+			    </div>
+			</a>
+		    </div>
+		</div>
+	    </div>
+	</article>
+
+    </div>
+    {{~}}	    
+</section>

@@ -1,0 +1,2 @@
+v=$1
+find $v/js  -type f | awk '/\.js$/ && !/min.js$/' | while read f;do f1=`echo $f | sed 's/\.js$//'`;echo "process $f";uglifyjs $f -c drop_console=true -m -o ${f1}.min.js;done
